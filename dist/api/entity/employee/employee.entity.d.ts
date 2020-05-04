@@ -1,0 +1,32 @@
+import { BaseEntity } from '../base.entity';
+import { CompanyEntity } from '../company/company.entity';
+import { UserEntity } from '../user.entity';
+import { BankDetailsEntity } from './bank-details.entity';
+import { ContactEntity } from './contact.entity';
+import { DependentsEntity } from './dependents.entity';
+import { EmployeeGovernmentNumbersEntity } from './employee-government-numbers.entity';
+import { JobDetailsEntity } from './job-details.entity';
+import { LeaveCreditsEntity } from './leave-credits.entity';
+import { PreviousEmploymentDetailsEntity } from './previous-employment-details.entity';
+import { SalaryDetailsEntity } from './salary-details.entity';
+export declare class EmployeeEntity extends BaseEntity {
+    canCalculate: boolean;
+    employeeId: string;
+    firstName: string;
+    middleName: string;
+    lastName: string;
+    gender: string;
+    birthDate: Date;
+    civilStatus: string;
+    contact: ContactEntity;
+    salaryDetails: SalaryDetailsEntity;
+    jobDetails: JobDetailsEntity;
+    leaveCredits: LeaveCreditsEntity;
+    governmentNumbers: EmployeeGovernmentNumbersEntity;
+    dependents: DependentsEntity;
+    bankDetails: BankDetailsEntity;
+    previousEmploymentDetails: PreviousEmploymentDetailsEntity;
+    userDetails: UserEntity;
+    company: CompanyEntity;
+    companyId: string;
+}

@@ -1,0 +1,2065 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "b42eddba1a53c9d27279cfe7fc0416c10a81489826ad47e39013b9d340fc0cc7",
+        "signature": "b42eddba1a53c9d27279cfe7fc0416c10a81489826ad47e39013b9d340fc0cc7"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "f2039e0dbc31f69183f6377b368c033802dfdcf77e5fd214def06c1fd7b225ed",
+        "signature": "f2039e0dbc31f69183f6377b368c033802dfdcf77e5fd214def06c1fd7b225ed"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "8329c3401aa8708426c7760f14219170f69a2cb77e4519758cec6f5027270faf",
+        "signature": "8329c3401aa8708426c7760f14219170f69a2cb77e4519758cec6f5027270faf"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "734ddc145e147fbcd55f07d034f50ccff1086f5a880107665ec326fb368876f6",
+        "signature": "734ddc145e147fbcd55f07d034f50ccff1086f5a880107665ec326fb368876f6"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "4a0862a21f4700de873db3b916f70e41570e2f558da77d2087c9490f5a0615d8",
+        "signature": "4a0862a21f4700de873db3b916f70e41570e2f558da77d2087c9490f5a0615d8"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122",
+        "signature": "765e0e9c9d74cf4d031ca8b0bdb269a853e7d81eda6354c8510218d03db12122"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210",
+        "signature": "285958e7699f1babd76d595830207f18d719662a0c30fac7baca7df7162a9210"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "d4deaafbb18680e3143e8b471acd650ed6f72a408a33137f0a0dd104fbe7f8ca",
+        "signature": "d4deaafbb18680e3143e8b471acd650ed6f72a408a33137f0a0dd104fbe7f8ca"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "c2d60b2e558d44384e4704b00e6b3d154334721a911f094d3133c35f0917b408",
+        "signature": "c2d60b2e558d44384e4704b00e6b3d154334721a911f094d3133c35f0917b408"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "../../../../../../../home/dsumayan/.nvm/versions/node/v10.18.0/lib/node_modules/@nestjs/cli/node_modules/typescript/lib/lib.es2017.full.d.ts": {
+        "version": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594",
+        "signature": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594"
+      },
+      "../src/dto/response.dto.ts": {
+        "version": "8b55f4259ff2e9471bae22405eb267db830cb5c4810680378668fbdbcdbce11b",
+        "signature": "84e4b48d1d92566cecce1ddc2bf95d328d30d98df2c6aecddc98a456929b3163"
+      },
+      "../src/controller/app.controller.ts": {
+        "version": "3543067ee1b7efc61fd7094239ff969f307a0c2ead5b546c44678acd346bd660",
+        "signature": "ed2485b3e111bf9cf10c7ac871500d9e46dc08a0515aa1d00b17ae42441de218"
+      },
+      "../src/entity/base.entity.ts": {
+        "version": "0fbb8f1ce9f6df25fabd77ddc9ac600dac57d1dd2621ef1033a483a8802d2cc0",
+        "signature": "fb6f15a384d1b1aae6aa4b129359c033052d1c04ec5ffb382067ef2e9aca4969"
+      },
+      "../src/constant/civil-status.ts": {
+        "version": "9e106cea1cea2348514e52b7b5d7e220bed495119a507ab6650622fff1841f30",
+        "signature": "d6a93451bc5974c369201b9f6982c3f929d83948b41ab51556076494872c94fd"
+      },
+      "../src/constant/gender.ts": {
+        "version": "e73898cb966c5e104dc113c2741f4128e2739000a5edda64f10609fc75013b0b",
+        "signature": "daba664c9939e1476cb9b1e0394c60d36803f1a034c14853de0fd5455f920ee0"
+      },
+      "../src/constant/bank-acct-type.ts": {
+        "version": "2ad638e5d43677c827e5307d5fc0ace58cb8ba2b9485b6d491f0a67842f95956",
+        "signature": "69f5a4abfbfd6df0e004d72bcdf0cf6043bbb2fb1c634f6c95cfb4baaa46618e"
+      },
+      "../src/entity/employee/bank-details.entity.ts": {
+        "version": "2e59ad52c8b746d5c5fe0eb18adc0321aba8c59be928e2d49f39bcefe81e4d16",
+        "signature": "f6d3d483a4971261871f3fb0f90518997b46f3307c7fef673744f22e16f6119e"
+      },
+      "../src/entity/employee/contact.entity.ts": {
+        "version": "ce72dbb2e99052bf4510217c6f4105acc331b7c0b483561d959b1e818dafe0b1",
+        "signature": "155498f93d92c6b91b4ac7e86099e460c5f178e71ce22f742d8a9d4df6f1ccb4"
+      },
+      "../src/entity/employee/dependents.entity.ts": {
+        "version": "19128b56888415f4512e46c2ceae5801e3acfb43e8580b8167eefef8b0ee7d09",
+        "signature": "91638dbff9444ec281c1fed9f4ed4211b69434b44995b88211369350715e2418"
+      },
+      "../src/entity/government-numbers.entity.ts": {
+        "version": "a5375530e79cd36db6c58216d5a3c9e0881cce22704b744e3cbaa7369c67c8de",
+        "signature": "34f52e709ddbd8422022f63e6216e1a9f4ae5344b21f5d3b9c71814d379d4087"
+      },
+      "../src/entity/employee/employee-government-numbers.entity.ts": {
+        "version": "9b5bfb7a08d04c8148b4371878add36ff14e8cf6fce2b5434594c0b1a12151a3",
+        "signature": "217c0cfe2fff3047b726aadf19b56a8ce8d4793fb44144e7e23f14f0e380ca42"
+      },
+      "../src/entity/cost-center.entity.ts": {
+        "version": "1fc80ef1acac064813a2ef5b7f3463f84715adf9bdcc3bb06281211e0abb6227",
+        "signature": "9c5a96f6fbc4f15200a8b6b7f1b43de5ca01ce20e5b387beaf2bae980eb26957"
+      },
+      "../src/entity/department.entity.ts": {
+        "version": "a888ce73c16386777ca2c6feee0ad97a421edce139e865074a51553a5b9b50a3",
+        "signature": "97e17c0568bc9adbd0160d6ed66cb6fc8544099d901db6ee65220ced4fc3bcc4"
+      },
+      "../src/entity/pay-group.entity.ts": {
+        "version": "627ae45d4723d1d31ffabb0f2d21f0bd3159b79fe1688f52047b9114a5ce0d0c",
+        "signature": "b9f07c219ab54320c2c208a90bf751ebfc4b0edb0c4557c5af395653db1c96a5"
+      },
+      "../src/entity/shift.entity.ts": {
+        "version": "0c70cb60ce86bf0cfd00f6a6cdd326cb76d2093d5135051b2bed8ccd9f59fc23",
+        "signature": "77ea76207202bc7ac6d1ce6fca70175fdd97b21eef2d7e034419d13c84c71a09"
+      },
+      "../src/entity/employee/job-details.entity.ts": {
+        "version": "4f72ba37aa4a15eb355717f7dcc14c6d81d60c3fb8c3eea4aa0f34ce5d3ab928",
+        "signature": "d6ccd96544aa716bff04eb0027dfafcfa7c94bb7cfd112f102d570e785de87b4"
+      },
+      "../src/entity/employee/leave-credits.entity.ts": {
+        "version": "4565180316cb14a770a91d54c95b27d7ffc529b0d98cce6ae35d46e460f76934",
+        "signature": "25a78f00b96acb5ce8a720f2d794bcfb73692597dd11160027736bc8d4ab9f5c"
+      },
+      "../src/entity/employee/previous-employment-details.entity.ts": {
+        "version": "1be39c94be42546307f127621b6ca387e9412d57fa519f923ec9da5bbb3f5812",
+        "signature": "de15c5da022a154929e5cd6d58b908f15c10780eeebeb4e7a23341f13410f05e"
+      },
+      "../src/constant/day-type.ts": {
+        "version": "c496f255d7b915cee952c3d42a761fc4005abd79ae2532268f0bb2cf46811b82",
+        "signature": "728bb8d4daacf3063a456a5b4798f0ba9dc4a795036f0213e8d0af767efbcf7b"
+      },
+      "../src/entity/rate.entity.ts": {
+        "version": "5023677d7c48601de1d9067a134110603e6629e26fa4c17827627dcad382f008",
+        "signature": "d173d453e57a753db7893ff3a8198051a5a523f23ea1ea4630c6cb7ac770ca25"
+      },
+      "../src/entity/rate-table.entity.ts": {
+        "version": "2bd1d12b9f4b4813e7b21e935a17a7f36e579362849ea333618e29664826efca",
+        "signature": "28b05d3c6e0d9a40625091b42f8411fb0be2b38566399773aa1130846413e4df"
+      },
+      "../src/entity/employee/deminimis.entity.ts": {
+        "version": "99ec87f193e741c265b087896fe6c18a02735738394ac05ba0ff36de3297b733",
+        "signature": "a767f555004719e1fc39526e2d4fb1ac323e9b58f86ae1b343c5202bf12a9240"
+      },
+      "../src/entity/employee/employee-contribution.entity.ts": {
+        "version": "170402b7ccaa387d71575ca0a9e62d8f0127e36bdaf7e77ff23b43813179064a",
+        "signature": "134f34b6943ef08a8797f927fbe9213003c45d1438e495d6d6c4625be8b6a5aa"
+      },
+      "../src/entity/employee/salary-details.entity.ts": {
+        "version": "45402a4b5be41c6d9296be49d653cb4ca083559d0dac6d81d440504b449e9c05",
+        "signature": "7c2e66cf6159fd62bfe9dc441f8e304a8f0994e3187290dcac5ba10a4d0ff2dc"
+      },
+      "../src/entity/employee/employee.entity.ts": {
+        "version": "3c4079101981fb2415c74354779b5b068fb7d6d82d363b8c713bd38a8aac3589",
+        "signature": "6c819ddff323f0c1d4987cf40130903b9f223a609a1879a2cdb62bf6abd4284d"
+      },
+      "../src/entity/company/company-contact.entity.ts": {
+        "version": "b1913aa07f0d5ad9d35123f56d63e1efa675d8bfa68d24c15241b2ce0d8a27a5",
+        "signature": "5d633b1721e30344574a3f3839bd82d6e863653b1f6421341cd23188dcb2a38c"
+      },
+      "../src/entity/company/company-govt-numbers.entity.ts": {
+        "version": "dcca3c38f96fadc2a208480ddb685afd4722ad9d8a4ba40047277f3d7f91b53d",
+        "signature": "08b66f10dc27e32d6b11487f489c9002da73c75ba865a4e0fff049778f46b21e"
+      },
+      "../src/entity/company/signatory.entity.ts": {
+        "version": "d69821b3ba8ba736e6e02237392b7616d249c8540002219329aed416da8ec9ca",
+        "signature": "84bee1b2d5a29317985a969d25cef3a7915f31f687872e17bed1eb7d5a1b8ca9"
+      },
+      "../src/entity/company/admin-signatory.entity.ts": {
+        "version": "5b65f888d66defff6bc303697f7aa6e0e19c5a8f39ce95c51dc3641f98ef73bd",
+        "signature": "c985071df6d9e357e2f181a84cc5143bd55d3127da6bdc3f01f9857813878e6b"
+      },
+      "../src/entity/company/finance-signatory.entity.ts": {
+        "version": "4197e23ba12f345d9643d66fff561bce230abec071bbf431c126e8c7f3e4b2ef",
+        "signature": "735b2dff980e23c7e3830dfdbe6e0c72bfa6e271a321584f206ba3e6733d41d1"
+      },
+      "../src/entity/company/hr-signatory.entity.ts": {
+        "version": "43f8a08379debdce3c5abce731758cdf564c686eb9877f6e1234e76f2b3ec248",
+        "signature": "7219dfa54c921ef7db6a207ae300f6a8bab437575b3f18e4c970ae9ff5a7106b"
+      },
+      "../src/entity/company/company-signatories.entity.ts": {
+        "version": "494efe5c9de3dc3c4b7b94b8206f6c4a609ae17f60f6d27a9cc79e7a2c737ea2",
+        "signature": "8d9778992fa3a4aa5d306b4c6f9879ad160e5ab189bfd18ce2171aaad01a5cfe"
+      },
+      "../src/constant/statutory-period-sched.ts": {
+        "version": "b902b45e99ec54e4f9935ceca14b6251dee7184ba7603a2077a38c8cf179da0d",
+        "signature": "e62d9df405d5b172ad551712411b1ae7ac097297b82fb104777abee6dfb6eef8"
+      },
+      "../src/constant/13th-month-computation-type.ts": {
+        "version": "d1e5aeaca0de5dc2fb27f6322d52145edde698b22dd20477c63558a4857510fc",
+        "signature": "8e2cfce57828ac5dd4165f89af43f773ecc5125938387e76a5d968760c9f2f8a"
+      },
+      "../src/entity/company/income-source.entity.ts": {
+        "version": "8729326fc56f00c5def7fb00c8e9dfb9ff936efffba21f9fe9b96e54922d0207",
+        "signature": "9d2bdcdbc0e7a8e2d24c13e9889db68f84d07ccd6b6b6ac4d80268a39f702f32"
+      },
+      "../src/entity/company/payroll-computation/13th-month-computation-income-src.entity.ts": {
+        "version": "8e83bd0a5500d379879727aa27473a2e0d3e6fa346462ac5145550cc7638b2a6",
+        "signature": "64694e9294e380ac4a9511e0fdf3ffe10385e03f0c3cfdf56a006126815d1369"
+      },
+      "../src/entity/company/payroll-computation/13th-month-computation.entity.ts": {
+        "version": "c49323dc71fd07f855c35b53b930bf47a343df42e09b786f6bb093ba11ce4658",
+        "signature": "bd05a5c42a7e8e54eaeb27c6b103ca66986e6e5b29c9134841c0bc9d25457b35"
+      },
+      "../src/entity/company/payroll-computation/deduction.entity.ts": {
+        "version": "8dccb02c6443a9e3875f690dea3ccaa633823b60572f7aea9d250b1dff501d5e",
+        "signature": "2afcf7ead420421e1fb63ec39849a1a845fe90771816aecd28e959f65d1d0e05"
+      },
+      "../src/entity/company/payroll-computation/absent-deduction.entity.ts": {
+        "version": "cd91c1ad7f7f3462c7964fc9103960e623f078b7fdf9edb3c7f8f7a54a52fc61",
+        "signature": "6fd3fb7998dfd3e7e107114d3035bc68dbe326e48dac9c796e47cafc3cb8e7a8"
+      },
+      "../src/entity/company/payroll-computation/final-pay-computation.entity.ts": {
+        "version": "bebdc121e341275012195f7d1e0ca37aa7c7ba0cba0afca6814abead4d774322",
+        "signature": "2535cc652f1945ebe158fe716e5d774405008f232f114bec03b5ecaba63cdd93"
+      },
+      "../src/entity/company/payroll-computation/late-deduction.entity.ts": {
+        "version": "97d2227fc629dde95f7f53f2d5daff817d1e0ddd5deecfc7d5760b799d3077fa",
+        "signature": "647c97a41a051a81c9e58b16fbdee1da411a82d922c5b0493ce0ee913a8a7159"
+      },
+      "../src/constant/proration-method.ts": {
+        "version": "bacaab45216ad78ed9220ab4bf6b434de61b251f9b0ac2844fbff4680406fba8",
+        "signature": "95f4027cce8abd044d3e7f7a2eabb18e6bbb45ac69e98ea9fe642b7c8ad32701"
+      },
+      "../src/entity/company/payroll-computation/new-hire-prorated-income-src.entity.ts": {
+        "version": "93f4f541c678f25e3c9c9601f0112c85d2313af7d0c4776d7e2bc0c19a1fecac",
+        "signature": "dd01bd9973b2021bb8c22aa4614e45ec0e7329b1c5890585046d96c3d4d041d8"
+      },
+      "../src/entity/company/payroll-computation/new-hire-prorated-computation.entity.ts": {
+        "version": "6c016b8124fbf7a8fc1c4f5288bf609589716c7e56fa24eb2f597b1b1e6484a4",
+        "signature": "02399261492ff7bd93e61b090a2c908417d744964fe9e0fa355fed7d291ce95c"
+      },
+      "../src/entity/company/payroll-computation/overtime-computation-basis.entity.ts": {
+        "version": "d47b46dff0e9f51a75949c8732879eb92b2ad0e03691fcde33ad7568fb380db5",
+        "signature": "df936c3bdd0209b81b5b687c304090292389a109a0744bd6bb7f24a8c6abb079"
+      },
+      "../src/entity/company/payroll-computation/overtime-computation-rates.entity.ts": {
+        "version": "a62981a9695dd076ba4ad7bab9e6f162647ee2a6ea33ff3cfb17e70c48dea14e",
+        "signature": "4e623f418e7fb59592bea292fc775cde61714dc6b485e753ec390a089fe0981b"
+      },
+      "../src/entity/company/payroll-computation/overtime-computation.entity.ts": {
+        "version": "77e80370330e2ddba4f5d5e5f218b70819799e3ee0e36352c5e6710ec859cec1",
+        "signature": "d4bb82c1462995b2cd9d40a690f9431b35278d6782b84939a67a72b488f72973"
+      },
+      "../src/entity/company/payroll-computation/week-day.entity.ts": {
+        "version": "a1f6996f51a9393b88041406329e54df40855afded22d042a8eaa11550f74dd3",
+        "signature": "85fe8d21e02ccc100a0adce179fa01d6ea866f0f3d87d5ecbd25ef13d0b4d6f1"
+      },
+      "../src/entity/company/payroll-computation/payroll-computation.entity.ts": {
+        "version": "cfc32067f8b26c5f109ebf292f8f82c49233855be792f2a5f82d6aa06b726faf",
+        "signature": "deb18a99100cf667d250ea7ae44d7f0102c364626b9c42447fcfc7e934e31f6e"
+      },
+      "../src/entity/company/tax-computation.entity.ts": {
+        "version": "ea4eb2fb061927c899b3bc106791b31d91db67b8033ec53af08199dcc9f4143c",
+        "signature": "d20610b0e9877583de0a5b4c6714a059e2d06c5435b82e6e0beeb2cf5b0d3014"
+      },
+      "../src/entity/company/work-policy.entity.ts": {
+        "version": "af45c592b30fdc88c92f2a4f7cd8bdc14c4e88e4e3f57fff73006b4d5a014a6b",
+        "signature": "5edacfe956b71630c689df0d43ecdca15a440b3aeed2cbd43ca742d1d5877367"
+      },
+      "../src/entity/company/company.entity.ts": {
+        "version": "6db412b9decaf3e02483d5f5e236dc22e6c0b05b1afd60cc2894e0f43f0d8dab",
+        "signature": "9bc870622a7fd81d35a556887b7212eed217ae768c05c8a3caae351b83a4c6f7"
+      },
+      "../src/entity/role.entity.ts": {
+        "version": "25e7d4159b6885d353c8ba91c9ec121ff948b6a208d3c426ba51f3bb17b5122f",
+        "signature": "e8811b7839de3f9d7adb88fbbcf43e84e899b785fdbab9e9d9db09739b09950e"
+      },
+      "../src/entity/user.entity.ts": {
+        "version": "ff772c950796a395e9eece058ec564d500d745408f4b16d7324cfebbf6753128",
+        "signature": "86d3ceb3ebbd4c7540ccd9504129858b4aa38fb1e58443d05153a9b453e92862"
+      },
+      "../src/dto/paginated-response.dto.ts": {
+        "version": "a654a31a06c475cf55a9f1f90352934438495eaab96e6483ee2d0a705d653eef",
+        "signature": "62d397fe9319fe78014dadc93cf2cc1a9f4f0e19e53cb37d4a5d2d781d86a510"
+      },
+      "../src/utils/password-util.ts": {
+        "version": "ecbb90ff1be433a363611793ca55699229782aefdb49bee3bfc43f20dff325bc",
+        "signature": "3cb8ddaee5fda51d705df034160b9cd6b00437760e607cb8d9a929e0ee3408c9"
+      },
+      "../src/service/base.service.ts": {
+        "version": "95843242fa61b69e7a745c3d21265ddf7bdc430c6cef17770f2ed6502b095880",
+        "signature": "5408a5f2fd5900fafbaa25364a3cb82ad92b4d033555b9e51598194182ec1647"
+      },
+      "../src/service/core.service.ts": {
+        "version": "a2a484fa9e0e8bb05ef268b036419820aa074268e8c9a242c2ae1a8ca3394cb5",
+        "signature": "c284dba88d4ede340bfa139c6cc7e18bd178ce6158b8414cbf0db4591057aee9"
+      },
+      "../src/service/user.service.ts": {
+        "version": "e9dc18f014069c8cc10ec9dc45b7b8b4057a0f9c9c80d29f2aca406f7df16ff4",
+        "signature": "7c581c26d371aa8650a411ba4c797752f30956aa3cf2607ce767561127b05171"
+      },
+      "../src/service/auth.service.ts": {
+        "version": "6b4d04558c1c8a886f83866e27c0564f2bae1e31d98f40ef55dd6d946daca87a",
+        "signature": "7c1ccf293760bcd9aa410bf035f9b5b26d57eb8df85226f5463260fb23777a33"
+      },
+      "../src/controller/auth.controller.ts": {
+        "version": "202588c3a2a66361891f34fb3a79d6fa77e6f739d54e010736f73994befe12f6",
+        "signature": "630f9d4363bf65b3debd5beb054e1d8606adee1df21a1f0acb1bb9baa42707ea"
+      },
+      "../src/utils/passport-strategies/jtw.strategy.ts": {
+        "version": "907b896b468b529a2124f995b7722c67dfa86410b9b53e20d4f7b1cee4fee538",
+        "signature": "8cdd25412bf7b5d428a5c69baf00e020f6d1dda731bd34c84433424e8d7f3423"
+      },
+      "../src/utils/passport-strategies/local.strategy.ts": {
+        "version": "ff34f32568088bcf169454c7eaeb9e612758cca2173852562db1625aa425a2f3",
+        "signature": "9bd6c8ab9a9aa77081f9a7baebd8639b7b8b38668d2a9d6c95289ba8908a8903"
+      },
+      "../src/constant/action-type.ts": {
+        "version": "7577b145f869275d05c88adfe5fd3bb72506283c1fdb591ef4d057a6b92f28a3",
+        "signature": "e9f577f3bbbac9c303c78da2042ba6510e712b2d6de381a08c9a6316083cdbed"
+      },
+      "../src/constant/api-features.ts": {
+        "version": "bb7866668216352cbaf59f519a2f3d2bc744a1945f69cf38b15e947cb4caf1f9",
+        "signature": "70988bb3bc951e6ddb63268006663d858be9cbb191b4b4e68c6d52316a87dfcf"
+      },
+      "../src/decorators/action.decorators.ts": {
+        "version": "c61c173597714a8f20eb2190ea42d6cf3d46d6529c76fef3ff188640b37b7269",
+        "signature": "b66a2051e911b7ccd6056fe4cf2b0c68924dd5286f7c55bd7d90d6458bfc3e65"
+      },
+      "../src/service/role.service.ts": {
+        "version": "18db7d6dbdd425fb109fb962bf2c42e3ca4366057e7b5e8d97a38c42bbaebe18",
+        "signature": "c8e42eb4fef7fbaa692f8e4836739a9b208e29a22995e39888aae88b1e0ab347"
+      },
+      "../src/decorators/user.decorator.ts": {
+        "version": "e39037e1185db59db5d9118cfb2496fdf0db3b22d577a85254a5d007a90e09c1",
+        "signature": "7121cbe688ba61bdc6de60bdac5278acb4250f68f3e9ba110f755f5988d2ef0c"
+      },
+      "../src/utils/field-mapper.ts": {
+        "version": "cc853afdc4a815a7952d582a316524d7962b0913757591c1f07696f09ff780ac",
+        "signature": "b754f92a3b40ed429c5e7d572d07b343c3aee083b4d14bd19688ddde3dc92e7b"
+      },
+      "../src/utils/search-criteria-util.ts": {
+        "version": "dfb8ace299fbd1f79f6040a5a05e8f12d5ec6fe76f943de8c3bfb13d023fae6a",
+        "signature": "1a51a79e4179f8c53fd48b5fbe31946926b4cfa961cf03c1904f4f84abd63f71"
+      },
+      "../src/controller/base.controller.ts": {
+        "version": "87f6ef400031e415aa47c01f2995c637c77940d467e895a919020a6e4d0c7ec9",
+        "signature": "d1667f7ca22b5ccc27621a8bea65d632f297b35beeda6a551b952ac0326f45e2"
+      },
+      "../src/controller/role.controller.ts": {
+        "version": "cb9371100aaccbad287cac4bc5f268afb0923955191526b6a9e32f319d55da45",
+        "signature": "61f83dd6c72265e8db77e8ec40c39bf644e3302ffc77ee92ebf709fb5f0b151b"
+      },
+      "../src/guards/roles.guard.ts": {
+        "version": "ecb5782ad69e5dbae17d7806a2346b465d88a2c107127e82746ca993e99c367b",
+        "signature": "4a4298761ef6cbbe702b599e362dd5af677304d1e196161b6d0e964fd1fe5453"
+      },
+      "../src/controller/user.controller.ts": {
+        "version": "af4deaa2dcebc400d214ad23102b824b07871477a9754d5eb5f329daf7c632d9",
+        "signature": "4816eca4c01f1da10f60e6e58b9bbd84c5cba7df423d38a267e94729d7b4b73b"
+      },
+      "../src/entity/role-restrictions.entity.ts": {
+        "version": "1aa56a0726c866d92b0e9acb059f550c17394570981b3c954bdb805fdb5cc88f",
+        "signature": "5b28d33b8525b6aaa44020392bb5b4153df8d03978b6180d29793a9f323441cc"
+      },
+      "../src/module/user.module.ts": {
+        "version": "8fd9f7cee61399b4b5dd241ce1dc67c8e3acb95d478caf6acb628233f951f820",
+        "signature": "482b8f0d35a3d453500a15b6c6057c1e4c40baa4329b39da9e1026d8e1de4329"
+      },
+      "../src/module/auth.module.ts": {
+        "version": "d0c61afe65214b8afdd17cae69679046bcb675c9997133e41b1fa37a371b5bd9",
+        "signature": "a28b5c0c372fb375910b3fe3c3ce4331509bc18ccef7cc39c9ee9d8daf8225d1"
+      },
+      "../src/entity/bank.entity.ts": {
+        "version": "dede9547ea846931aaa70c42e90e65e9b539137cf9bf4788d6d5a9a17a715d6b",
+        "signature": "e8523df6ebec154132e59f0ee17b68158ac1c868e44431c58bb46ff9552958fe"
+      },
+      "../src/service/bank.service.ts": {
+        "version": "782efe7b9b7e6236ea09c47541dd0d13ee237fdf43fd836fce634105be87b49f",
+        "signature": "4ce24a563f1976a637efae639db04e4c502f7df4ebf98fbfc23f702df484ee9c"
+      },
+      "../src/controller/bank.controller.ts": {
+        "version": "5629ae1316b7a5c77f0fd68f915a016ee86142967bb92087fdf0df0012031e04",
+        "signature": "4f657bc448ed6d5b9142cfce7018432db7d0ab3a06797421b37b4930515310c8"
+      },
+      "../src/module/bank.module.ts": {
+        "version": "b66f178c3e9ed8a65796067efd9154a10f15c4a2d88a8069a6d4015fbeb944f6",
+        "signature": "92780ea36aa40a53a57ead774b500664351300200f40a76354a850d231429339"
+      },
+      "../src/entity/calendar-day.entity.ts": {
+        "version": "2062a1b0168cb448f3914137f256d59fff911dfce586f57f1cd245feb7706a98",
+        "signature": "b091598754d4b052505a222805f31ece38a503062a9cda3a2b5f951d4a88a25d"
+      },
+      "../src/service/calendar.service.ts": {
+        "version": "8de1148d53199281fe72a99c644fcfacc942a52e38af3536005b5cd902b10ce0",
+        "signature": "eca702ce83f3949ca47b8e99150a192e3ff6fe8fcae221ed51597b651ff2c715"
+      },
+      "../src/controller/calendar.controller.ts": {
+        "version": "8a6a6a460d2d95c61485f86abd816097f7bd89cbd6d2b58ce5c854599df90e4e",
+        "signature": "1f6e05cc82c226f3f6805fc9a450b814e217d277dfafa9d0df1d80ed16037550"
+      },
+      "../src/module/calendar.module.ts": {
+        "version": "b25fd89c30f7495135d6016b55c5241375801489c8253be230ecd30a0b343acf",
+        "signature": "0836cb54e72bc71da2262dc519fc156d8e3d93d1eca539917c95112c61ec8b44"
+      },
+      "../src/entity/company/adjustment/adjustment-type.entity.ts": {
+        "version": "f4d24042542761799c38ea70af34e0a61b9afffb6639bd0a6efe357647f92cca",
+        "signature": "1bce779226490984797bff0bba1df2da47e9954ba27c477db75f06ca02ad88d6"
+      },
+      "../src/service/adjustment-type.service.ts": {
+        "version": "0321362c6960a2991a60202b1135a0755c735d7e0ee88e8031bdf47e647bfab9",
+        "signature": "5b54477e4fb768a7648bc69efa295a1dd639036ae91472fa7fd3a90676379032"
+      },
+      "../src/controller/adjustment-type.controller.ts": {
+        "version": "ea4fff0c4eb1b484935690f78179fe24458137e2c8c5748ae6de1811dc9f5134",
+        "signature": "7e28d65d3daf524677045346ff7c33bc58bf945070317ee5b90e7b1af4cdb84a"
+      },
+      "../src/entity/company/adjustment/company-adjustment.entity.ts": {
+        "version": "9a29c11419b2257737d84c34e2a6634d7e199922d22af64bfe1de2a5c40f959f",
+        "signature": "e0e999e7e695596fae69bd8c27fcfffe82b75a5abf669fc1960048bbeda530e5"
+      },
+      "../src/service/company-adjustment.service.ts": {
+        "version": "9465cd39dd36da4c600db64941fb1659c10b55106ba15200badaa08bc17bd43a",
+        "signature": "17ee332cab487d88fb8febcfd454b1bec1e895ad8efa0d179bf6776b27d5416e"
+      },
+      "../src/controller/company-adjustment.controller.ts": {
+        "version": "93f60dd4dc8f745c8c1ba74116fb386bbc3426e5fac5ed8def3676ecbb6ee407",
+        "signature": "2f2d85fea01f648d71266d89a93dbfe690c0def065b35cd6bf668884f52e06a7"
+      },
+      "../src/service/company.service.ts": {
+        "version": "e9186a0cebfe1e2e7b662727ee6598bf657c0cc3afe9534d0e664a014cfc158c",
+        "signature": "87343de289a5cba4291697235fd80cf549277cc2fa06a813e5b74240a5aaa142"
+      },
+      "../src/controller/company.controller.ts": {
+        "version": "4b88e7042074de5a5e4cbfa40f3bc0db0138ba8c0547f7e6008ddaf777c15d9b",
+        "signature": "a6047c97d4554e4ac73bc90e5a0b7661ea55c2589f98257058e1f9474672ffb1"
+      },
+      "../src/service/income-source.service.ts": {
+        "version": "2cdff92f5a969948b1c873f57b88a30b0dc96baaf8727f1b59ead42955647e52",
+        "signature": "a98e6e402af61e1d1befa4984333b5bc6f3f6743687f240407572a66347e63d1"
+      },
+      "../src/controller/income-source.controller.ts": {
+        "version": "0865a8741e8b292eed74977a35d704f0c21ed4bec3ff2c05ce63367ce9c1ad37",
+        "signature": "5e96d885ceaca07fdc1da15fe0d9dac8f5b9d3fe3544628439700374d553714a"
+      },
+      "../src/service/rate-tables.service.ts": {
+        "version": "1e45a919f0461989ddb0c50e474b28f2f6f7fde4b49268365d356240df0c7a6b",
+        "signature": "aa992faa5e6483196cfa8377dc5a164097aa4823f0cb7bc42c6eabff2afd21ca"
+      },
+      "../src/controller/rate-tables.controller.ts": {
+        "version": "54661f2248fd50ab2e49ea5e2e971072ca163e481c31df3cfefa40ae25dfc472",
+        "signature": "8fe1b73f7100758fba4c85ab88ac8ee35e2a0c040e889552fa563b042399b171"
+      },
+      "../src/module/company.module.ts": {
+        "version": "9e11a0417ac379ed7b0b8bfcdd4680176a57532482ee95f2c5b805b18057dff6",
+        "signature": "d4f9fdfaff687d3c607aef2afd22f5891767162e40a84c6f9430fb4de030b8fc"
+      },
+      "../src/service/cost-center.service.ts": {
+        "version": "ffa37d1b88b78d57fa7a2870eebfc16cc0841d88a20c2fcb127e5703c0f7bab0",
+        "signature": "6644dc3de3cddeedcc8cdf3eb765d5712d88247695d2c0ed722ae4c70798d051"
+      },
+      "../src/controller/cost-center.controller.ts": {
+        "version": "c5ef1012b68d635a15760bce7473fbef20a1189481b05d50186f0df79230b6eb",
+        "signature": "d0385014a704733a4f24e93444cef9f87a832e6da41d99dabecc93e47fe76a44"
+      },
+      "../src/module/cost-center.module.ts": {
+        "version": "210fd052c8194c3300fef73e0373b48bdca86dd08f3616ea7bf23b97715d21c5",
+        "signature": "3eda65d84d96e8d158c0fd46e04cb823b6c73e9c4e38d58eddae3e60bb44b32f"
+      },
+      "../src/service/department.service.ts": {
+        "version": "bf26360ab9ab59c546669f8b5f757b4e8f5303f0dad5b740b2b5bcfc8287eb5b",
+        "signature": "4e8ba4007fd19211879dce9200259e939441f7c2db64fe52e606e389ecd5a904"
+      },
+      "../src/controller/department.controller.ts": {
+        "version": "0d7c502743b05a1b3ac228289db2cfb6f343ab9c654ff897c9ab339835fd8b3c",
+        "signature": "ee4d1e5653cb5d2264ca23dda58c0d7d55bfdb1410e01601a45c76f5ef890691"
+      },
+      "../src/module/department.module.ts": {
+        "version": "f80a10c88f913c5c1f0085c6823b725e88b08b67f391ddfe7c0f27e60d631332",
+        "signature": "8523ae3e90299b9ce9b5f362675bf1cbc94327ffe24fc3dbd1746bb26a715825"
+      },
+      "../src/constant/deduction-type.ts": {
+        "version": "081cca9e65a05ed95cb2b55cdc188d323a6f391decafe69c1700fff3a0651884",
+        "signature": "50bc63c9f642b594728f22fc83c5e8791251d9c3204a3cd0cce5575f4dc80173"
+      },
+      "../src/constant/hdmf-contribution-tables.ts": {
+        "version": "d9fd72af65651f242ce9768861f3e5c7acb5b56f890994a432f44c82f9a10555",
+        "signature": "c4f794d2ae7a772f27250119416a1327262130771a9ff94f227f5281f9cd0a66"
+      },
+      "../src/constant/philhealth-contribution-table.ts": {
+        "version": "73c0b19ce6cfefcf53c0378fc174d40fb3bcadea66f350dd0d216d007f88b2b7",
+        "signature": "f9ed9c6fa247be1176c7d0df738ab98b697966945fdfc9d85f409c9639ca04cc"
+      },
+      "../src/constant/sss-contribution-table.ts": {
+        "version": "980e881d8afbbf678f48a0cd74d8a9e16b12a39f94f400ad399ab4907f5e4641",
+        "signature": "0ed5ac585f4dad423baa09b32181e9f29c3726da9369963dd99f1e9ab6d8430e"
+      },
+      "../src/constant/withholding-tax-tables.ts": {
+        "version": "5eba75665c51e30f2c261e2a50b85e896876023c8496e4a75f1f1c902a5b2d11",
+        "signature": "bedcd2cdcb31eacf7003424f3e5369ec937059a25d0b3a31e6fb6b1de20f7b79"
+      },
+      "../src/entity/payroll-runs.entity.ts": {
+        "version": "5293127e21bb0eab1d2c84d4b952fa022cd4d6dfb98bf92c5ae44d73b39a9929",
+        "signature": "ec5a48d51075b7bfb3281946391d4963fe0b74894305a1e5efb37631a7330b5e"
+      },
+      "../src/service/government-references.service.ts": {
+        "version": "14b00a31bb13e366ad100fadba4c03fe6e3e7d4fa95e3c6947fde24283bef948",
+        "signature": "6343f588a306d52f8f4ae5823d17811611861a863c0830a5b15a5695f12a128d"
+      },
+      "../src/service/employee.service.ts": {
+        "version": "4191065df76df7c64d997c719d8ab6faafde8853391d16985a84a6d00e243649",
+        "signature": "e6eb28d2e4801efd41160971669ccd1f035c42a8feaa6c73591f610afd545904"
+      },
+      "../src/controller/employee.controller.ts": {
+        "version": "3aac252f595615b08b408d3067dbbad1c31e0d84a0cedc9507b9263072bfd860",
+        "signature": "8f85f9732395798338cdd526acd266394afc92af20b534fd731f01dbe435055c"
+      },
+      "../src/entity/employee/employment-status.entity.ts": {
+        "version": "fdbe097fe82cb4f1d68cc0a0a74c1e15b032461626cafd2eb835bf8ba32e23f6",
+        "signature": "21a5f84ea0c3ff33dba763bedd8487f5861c6173076e983e2514ff966bb89edf"
+      },
+      "../src/service/employment-status.service.ts": {
+        "version": "1b155d955e8531315a7064bcc3231ab062e2306654ba2ca6abca820f7155b60f",
+        "signature": "39aab06304d3a1b1941ce2a31dc0be9b7c94ba1a65a700e83c71a4fd50aaf617"
+      },
+      "../src/controller/employment-status.controller.ts": {
+        "version": "6019bd2ecaba84ca0b6257c7f749dde00a2324887c61ca6d708b50a201e14cd9",
+        "signature": "9d462dd0c3ade4808356376f2a760200a2dd1fe343d6f8d78e9613c31086cc28"
+      },
+      "../src/controller/government-references.controller.ts": {
+        "version": "d6caf9e9e13ae105e352f88d39d198150a6ec4355b4ddff3b283ed34097729e7",
+        "signature": "a346884ee6b94c2be3c66923bceef55ae9cc4639092528e4525698e68a4d9c12"
+      },
+      "../src/constant/leave.ts": {
+        "version": "495f153595700355209065cf5724738ec7c4177e43fb90522420cd107067be62",
+        "signature": "8fa911151aa1ae3abc6a2d132f82cadd2cf0e0b438cefb12c5f69d98ab8b230a"
+      },
+      "../src/entity/employee/leave-log.entity.ts": {
+        "version": "271537fa4d0e70873579a0acf6c2c08df5af506e372fcf6d54a40a24bc29880b",
+        "signature": "7c6e6f0e57995e5717061d95304dd58da2d8a4792c48d6e8d7fc066bfe2dca96"
+      },
+      "../src/service/leave.service.ts": {
+        "version": "7130d86d237cdc6bc95be440ab1c24947acb8a9bb0ee57b85383494d4c204e13",
+        "signature": "ab0d0975037f392ba4f69c8adc9ea6423f8ff0f148e76bfe3c4f45bba8e43988"
+      },
+      "../src/controller/leave.controller.ts": {
+        "version": "a947911e20858a6f2426f06402fe81f436e08873e8dd13c31946953631fedfaf",
+        "signature": "7d0fe648f4ae0502ea602a2db8188ce7c9bcce8ceeafa6cbea84e5106781f6ff"
+      },
+      "../src/service/shift.service.ts": {
+        "version": "5c22ad49625d61e0f21ceec17122ac35e5630f924e393a9b4a6695a8a953b119",
+        "signature": "d89463947d72a9c79e1cb2a65016f3f682782b09a84ca7c6a744ecc43c4c84f3"
+      },
+      "../src/controller/shift.controller.ts": {
+        "version": "ef376e2ba7790e5b291300dd6544519150cf9f199a9357bd668778625751daf7",
+        "signature": "c0b9b7a4c9607907fe236e2103c4c5426de01acd3922348f923e0a1b05383ffe"
+      },
+      "../src/constant/timelog-type.ts": {
+        "version": "bfa95d16097e77ca524da3d4169ff577f813899edc0018244d50adf790427c75",
+        "signature": "670b11e96a73fcaf7c1c1f3b56177745f70734384efd51b881bbe01203f53c43"
+      },
+      "../src/entity/site.entity.ts": {
+        "version": "353f72caaab4a4240c36bde312e3556273cb98d3e994661b6f34fd8dac6e02ed",
+        "signature": "943953ccfeed439830ae73c9aeac91c42fbda60f031f9adbfc1635d68fafd4f6"
+      },
+      "../src/entity/employee/timelog.entity.ts": {
+        "version": "9d1bebd00f094e1b37fb6bb3b49996ddd1b6d3cdc7941aa4f0039f5715a1668c",
+        "signature": "315e46f84b16ed78849bf6e8af635c84197512d1e8b7d41f0ab6d3900733846b"
+      },
+      "../src/entity/employee/employee-site.entity.ts": {
+        "version": "ddedfb310cac5eb5b5c5c76dabc0cdc2a9336f19a74b364d9f714796a34a6be9",
+        "signature": "855bea4a5b16c946200e72e1015c7904c035433df684f3f4121d74c949370c40"
+      },
+      "../src/service/employee-site.service.ts": {
+        "version": "f0f4b3b6bd21f26098cf2ce2139280dc963953bc16899849e54a21d9dc6266e9",
+        "signature": "b035a017d13b75648e47499b0cc14809f30ba83b28ccdab6fe2df2c832f2a01e"
+      },
+      "../src/constant/constants.ts": {
+        "version": "a0a8e658ccc924ba15ed1bc7b3480aa8d2e8095530b6c5db62082ba0f5eaed94",
+        "signature": "6e719dfddb57cc5e09f150a1d70de96104f7e671ef9678cbb668575106fb540f"
+      },
+      "../src/service/site.service.ts": {
+        "version": "2813128556dc8e287a31032b83b58583880a29ebc0a79cb3bab90588887ea9ff",
+        "signature": "e82f3c4711b52e05f5f06fc0cf4af347654a788651b898008868d3ceeec4841a"
+      },
+      "../src/service/timelog.service.ts": {
+        "version": "cfe83f65afda8dafd53309065d38fb2da6ca47a99e198178c95c6fab9455abac",
+        "signature": "6dece3de86ab073c73ebe82c8f800086eea07fc488565c3e43742c0c0bdeb72c"
+      },
+      "../src/controller/timelog.controller.ts": {
+        "version": "518a8bcbbf02a89d083ae040778e7586286dafa3e476b52359058b4dad316de4",
+        "signature": "5e5679d864b8ac49b5df2b68e7d244a60642c6f1ac299f4609a6623727f9e6c6"
+      },
+      "../src/module/employee.module.ts": {
+        "version": "9f131fc801a3a79a64adbb33118ba47eed7b3364f1233564911cd32cad4f4b0a",
+        "signature": "9aa7a7795f7cbd889cc5cb74159ca280a19ea2006569a3c5c13aaf5c8deefe64"
+      },
+      "../src/entity/file.entity.ts": {
+        "version": "4108dcb268071db4152acc97f5107be09b9ce8b3b89eee7ac6f0cfbde3ce836f",
+        "signature": "2ca718e67142130118ca46f2d1dacf93ce5cdaed1a6f94393fee9281e3550d70"
+      },
+      "../src/service/file.service.ts": {
+        "version": "8db966a5cd1c3c1b93e335dbab2c4a47e0c0e4a67db07cce9a33803d6890fe71",
+        "signature": "91e19b939a2df6e4189de2d6fe4342cd480e340c2057fd091508f709e78c9d63"
+      },
+      "../src/controller/file.controller.ts": {
+        "version": "c0dd50fc39bb097f8b5de63ca03470a484830ff0a58103ce0f205e1fe8e30461",
+        "signature": "cbf203b5152c19b4283f3556146970e79eb9c987c3d7d230370df22bd6e65481"
+      },
+      "../src/module/file.module.ts": {
+        "version": "b8395277630e6bdc1186400676062ec3763fddfe313b486f3006964a2d151b76",
+        "signature": "4e32d5602e93882968319d299cf31ed9697680443a8e39cd3e0d4ebdd7455519"
+      },
+      "../src/dto/mail.dto.ts": {
+        "version": "129270bc805bdf6cfd38158514144d2a910b27dc5b5077250e661f2d6b79bd0f",
+        "signature": "aec066eb45f07c0f6e69f0c78a1f806b623e3d83f1c62cbcd27f163e19c17ab1"
+      },
+      "../src/constant/mail.ts": {
+        "version": "37fdb2aa6a296c729d2a38e3a5f7a3ba2d093d3467de8c96c5d83933de8002ea",
+        "signature": "dbcd6649c71a326d5f86129750fb9de14875fef0e8a0925724273c525aeff49c"
+      },
+      "../src/service/mail.service.ts": {
+        "version": "107443d6f3a294ca9b10203ee3e7ee06b16b8c42e575c7fa390c5460befbd642",
+        "signature": "2cf1160e3713c65850a83f6dc2c60d867d4ae120eba56838739660e2f8663dc0"
+      },
+      "../src/controller/mail.controller.ts": {
+        "version": "928474f3b3cbf8876cab07c525fd05692c9818e1687ec19aad226995bf0e1316",
+        "signature": "a02c59d590e0a2610b6352a4bbee8dfe624fa2fad058b027d094f7a7e76b9170"
+      },
+      "../src/module/mail.module.ts": {
+        "version": "c836e857ad7469ebebd53a29b496c9de611ac014204e9c5f08f87c83da797556",
+        "signature": "447b753b3e76578ef29631d0bcca78bac6ce0b377c4ca60923c08c835f09e01e"
+      },
+      "../src/service/pay-group.service.ts": {
+        "version": "8cbf47a44bd1379ce309edadb67d724e856653c2bda0361dbbe185a407dab636",
+        "signature": "e0d2f26e5c40b271614e928a5ba6184a50477601bf2890ce13eecaa0df346090"
+      },
+      "../src/controller/pay-group.controller.ts": {
+        "version": "6b0f0ac60a495c9fb88db5831455d9a3d66e070686dac04799d38219fc688e97",
+        "signature": "21b55b0c2ff36684c2550b827f727ce8d3aa5bff753285d65aee1647249d4377"
+      },
+      "../src/module/pay-group.module.ts": {
+        "version": "09e7f6c16d8c0ce9ed1e5ec87f008537398340e4a4188149a7ea252a440efe64",
+        "signature": "9db278e3ea6782052323e6e3011132a02000ef53cfbe066ff457c059b0c2aa90"
+      },
+      "../src/service/payroll-computation.service.ts": {
+        "version": "c7a37f2b2b64bfd10088adb387e70628010a3f0f3a50bb1f9a1c182dcc439211",
+        "signature": "3d97d6b98a53973967556946bbe122dd5e604305521a511260fac042f5d92e77"
+      },
+      "../src/service/payroll-runs.service.ts": {
+        "version": "f7e69cc15d957e9d2cbc361073b27104d39d04fde7eda0224402d97bf1a898ef",
+        "signature": "44fdbd07f05a10bbcdf966fb3b4ffd651d33f1651b70e414aea1e2ac0b4ba7f6"
+      },
+      "../src/controller/payroll-runs.controller.ts": {
+        "version": "e8a3ed4f91c2b08cc39629b7849e04b45ec3d9a712b1b387c5e6d2fdb99196e4",
+        "signature": "985d61866204d247d330c0a1f09b6da1f027df01bc522a5618849261c1243723"
+      },
+      "../src/controller/payroll.controller.ts": {
+        "version": "c727f556b44f5277dc83f6017bf3045ab68d5a4def5c041a8da3025f8ccead39",
+        "signature": "e8dd69d3f3dc4c8314b8449ec9e46e22a4d1fc05c91c0c205151560e84d4d09e"
+      },
+      "../src/module/payroll.module.ts": {
+        "version": "557d71e5608e797d62d1e8d353f4f0bd80296b6179d59bcdcc905e5d7e908f9c",
+        "signature": "2c33785b2bc9d19870f2ce51188d179b3a19793a0d546fb42f865c6a1fda5912"
+      },
+      "../src/controller/site.controller.ts": {
+        "version": "2a52879c49faeec505e03555044dfd0c3bb5fd7452342c2375e73ecb16813335",
+        "signature": "d1bb7144cf246dd13087a4b57b4dc59e50cd5f94bdaba217d526bc67180461e0"
+      },
+      "../src/module/site.module.ts": {
+        "version": "b0dd856452984ea0ee328c804efe973fce90b0609703079581e9082207f235db",
+        "signature": "7e96c747181ed7eefd7f779677594e80139e883c416eec82fa731594ac761e2f"
+      },
+      "../src/app.module.ts": {
+        "version": "472651184fcf16799a3f7512b3c39c27e6df65ff4887391e2ae8bea1e886f831",
+        "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644"
+      },
+      "../src/main.ts": {
+        "version": "0c6170b937e0519e5427d8873e8fa2cd03295e2a70cea5fe1334a1ab2faa8ac8",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "../src/constant/contribution-coverage.ts": {
+        "version": "a46c8fd79436871b1bc1d8b73de9cbd83514549012dadc03e2b13b78ab30da03",
+        "signature": "8240f3a299374359bcf939ffa14dc6342f9babaadbb4a44c52a37d5bda33bd9b"
+      },
+      "../src/constant/pay-period.ts": {
+        "version": "650921d65bc5c30a972004c1399c78b98eb1702e597b040971f09ce428064252",
+        "signature": "1b30e922d26ac4d91c7dbe04a4936a356c100ad025a1948d29b86a7ecdf36bea"
+      },
+      "../src/constant/rest-day.ts": {
+        "version": "351af824031e47593b952c2001518ada5b002e6936d13de6ed5b32424996738f",
+        "signature": "8a575c1c8a7d06ce2ae9f363d6d2eb5f9ecf03417bbae591c7ee873f5dde4362"
+      },
+      "../src/constant/signatory.ts": {
+        "version": "2e7d44efe03a39933718b4b1687e4a87383157a3b4e646e7c754dc8fabda552e",
+        "signature": "3d9a9507acc695a520049c5a20d97ef9d9ffad4e21b1d52620194690e970a3cb"
+      },
+      "../src/constant/tax-annualization.ts": {
+        "version": "ba05b1132d67816c14d9467391afc2f118a9ae016e5824d8fb958f17cc246ff0",
+        "signature": "b1127b5735d541b265b9e9dd8a0fffc8359a3e295f413a07370cc88d10e7da25"
+      },
+      "../src/constant/tax-status.ts": {
+        "version": "b49c23b373e898d9e27f559abbace8f7876c99ee969335b6ccc05631c2628915",
+        "signature": "4fe6f5fe2eed0a2382c2bd78e69337f0321032a19d86520161882eaa5fc139b3"
+      },
+      "../src/dto/search-criteria.ts": {
+        "version": "cf1e9e484c5192cf9bc641573628af83d0c9e65700a95940cb288320c065ab40",
+        "signature": "b2c4006644f8fa4aed0d8079db3636fe0fe19440b4835583c01e9c9bbc930f4e"
+      },
+      "../src/dto/timelog-criteria.ts": {
+        "version": "43e66e619b14aed7147d64e49305082eddbcd41cc1e507acfc8d5d18b8d4185a",
+        "signature": "beda2f6f20749fb8c51678346e045547a71b5ad0e9c5a2da39d1eb76361a5748"
+      },
+      "../src/entity/company/tax-table.entity.ts": {
+        "version": "0181e9f1693c516ca9f41a5442d8d7af87d37e3d6240977d132d274b345357e8",
+        "signature": "3ee968595c7364faae3d255ca38a20c1e13f8d2737553ea0f48abcbc05374c53"
+      }
+    },
+    "options": {
+      "module": 1,
+      "declaration": true,
+      "removeComments": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "target": 4,
+      "sourceMap": true,
+      "outDir": "./api",
+      "baseUrl": "..",
+      "incremental": true,
+      "rootDir": "../src",
+      "typeRoots": [
+        "../node_modules/@types"
+      ],
+      "configFilePath": "../tsconfig.build.json"
+    },
+    "referencedMap": {
+      "../src/controller/app.controller.ts": [
+        "../src/dto/response.dto.ts"
+      ],
+      "../src/entity/employee/bank-details.entity.ts": [
+        "../src/constant/bank-acct-type.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/contact.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/dependents.entity.ts": [
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/government-numbers.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/employee/employee-government-numbers.entity.ts": [
+        "../src/entity/government-numbers.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/cost-center.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/department.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/pay-group.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/shift.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/employee/job-details.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/cost-center.entity.ts",
+        "../src/entity/department.entity.ts",
+        "../src/entity/pay-group.entity.ts",
+        "../src/entity/shift.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/leave-credits.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/previous-employment-details.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/rate.entity.ts": [
+        "../src/constant/day-type.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/rate-table.entity.ts"
+      ],
+      "../src/entity/rate-table.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/salary-details.entity.ts",
+        "../src/entity/rate.entity.ts"
+      ],
+      "../src/entity/employee/deminimis.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/salary-details.entity.ts"
+      ],
+      "../src/entity/employee/employee-contribution.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/salary-details.entity.ts"
+      ],
+      "../src/entity/employee/salary-details.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/rate-table.entity.ts",
+        "../src/entity/employee/deminimis.entity.ts",
+        "../src/entity/employee/employee-contribution.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/employee.entity.ts": [
+        "../src/constant/civil-status.ts",
+        "../src/constant/gender.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/company.entity.ts",
+        "../src/entity/user.entity.ts",
+        "../src/entity/employee/bank-details.entity.ts",
+        "../src/entity/employee/contact.entity.ts",
+        "../src/entity/employee/dependents.entity.ts",
+        "../src/entity/employee/employee-government-numbers.entity.ts",
+        "../src/entity/employee/job-details.entity.ts",
+        "../src/entity/employee/leave-credits.entity.ts",
+        "../src/entity/employee/previous-employment-details.entity.ts",
+        "../src/entity/employee/salary-details.entity.ts"
+      ],
+      "../src/entity/company/company-contact.entity.ts": [
+        "../src/entity/company/company.entity.ts"
+      ],
+      "../src/entity/company/company-govt-numbers.entity.ts": [
+        "../src/entity/government-numbers.entity.ts",
+        "../src/entity/company/company.entity.ts"
+      ],
+      "../src/entity/company/signatory.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/company/admin-signatory.entity.ts": [
+        "../src/entity/company/signatory.entity.ts"
+      ],
+      "../src/entity/company/finance-signatory.entity.ts": [
+        "../src/entity/company/signatory.entity.ts"
+      ],
+      "../src/entity/company/hr-signatory.entity.ts": [
+        "../src/entity/company/signatory.entity.ts"
+      ],
+      "../src/entity/company/company-signatories.entity.ts": [
+        "../src/entity/company/admin-signatory.entity.ts",
+        "../src/entity/company/company.entity.ts",
+        "../src/entity/company/finance-signatory.entity.ts",
+        "../src/entity/company/hr-signatory.entity.ts"
+      ],
+      "../src/entity/company/income-source.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/13th-month-computation-income-src.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/income-source.entity.ts",
+        "../src/entity/company/payroll-computation/13th-month-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/13th-month-computation.entity.ts": [
+        "../src/constant/13th-month-computation-type.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/payroll-computation/13th-month-computation-income-src.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/deduction.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/income-source.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/absent-deduction.entity.ts": [
+        "../src/entity/company/payroll-computation/deduction.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/final-pay-computation.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/late-deduction.entity.ts": [
+        "../src/entity/company/payroll-computation/deduction.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/new-hire-prorated-income-src.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/income-source.entity.ts",
+        "../src/entity/company/payroll-computation/new-hire-prorated-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/new-hire-prorated-computation.entity.ts": [
+        "../src/constant/proration-method.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/payroll-computation/new-hire-prorated-income-src.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/overtime-computation-basis.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/income-source.entity.ts",
+        "../src/entity/company/payroll-computation/overtime-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/overtime-computation-rates.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/rate.entity.ts",
+        "../src/entity/company/payroll-computation/overtime-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/overtime-computation.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/payroll-computation/overtime-computation-basis.entity.ts",
+        "../src/entity/company/payroll-computation/overtime-computation-rates.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/week-day.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/job-details.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/payroll-computation.entity.ts": [
+        "../src/constant/statutory-period-sched.ts",
+        "../src/entity/company/company.entity.ts",
+        "../src/entity/company/payroll-computation/13th-month-computation.entity.ts",
+        "../src/entity/company/payroll-computation/absent-deduction.entity.ts",
+        "../src/entity/company/payroll-computation/final-pay-computation.entity.ts",
+        "../src/entity/company/payroll-computation/late-deduction.entity.ts",
+        "../src/entity/company/payroll-computation/new-hire-prorated-computation.entity.ts",
+        "../src/entity/company/payroll-computation/overtime-computation.entity.ts",
+        "../src/entity/company/payroll-computation/week-day.entity.ts"
+      ],
+      "../src/entity/company/tax-computation.entity.ts": [
+        "../src/entity/company/company.entity.ts"
+      ],
+      "../src/entity/company/work-policy.entity.ts": [
+        "../src/entity/company/company.entity.ts"
+      ],
+      "../src/entity/company/company.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/company/company-contact.entity.ts",
+        "../src/entity/company/company-govt-numbers.entity.ts",
+        "../src/entity/company/company-signatories.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts",
+        "../src/entity/company/tax-computation.entity.ts",
+        "../src/entity/company/work-policy.entity.ts"
+      ],
+      "../src/entity/role.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/user.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/company.entity.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/role.entity.ts"
+      ],
+      "../src/service/base.service.ts": [
+        "../src/dto/paginated-response.dto.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/user.entity.ts"
+      ],
+      "../src/service/core.service.ts": [
+        "../src/dto/paginated-response.dto.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/user.entity.ts",
+        "../src/service/base.service.ts"
+      ],
+      "../src/service/user.service.ts": [
+        "../src/dto/paginated-response.dto.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/user.entity.ts",
+        "../src/utils/password-util.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/service/auth.service.ts": [
+        "../src/entity/user.entity.ts",
+        "../src/service/user.service.ts"
+      ],
+      "../src/controller/auth.controller.ts": [
+        "../src/dto/response.dto.ts",
+        "../src/service/auth.service.ts",
+        "../src/service/user.service.ts"
+      ],
+      "../src/utils/passport-strategies/jtw.strategy.ts": [
+        "../src/entity/user.entity.ts"
+      ],
+      "../src/utils/passport-strategies/local.strategy.ts": [
+        "../src/service/auth.service.ts"
+      ],
+      "../src/decorators/action.decorators.ts": [
+        "../src/constant/action-type.ts",
+        "../src/constant/api-features.ts"
+      ],
+      "../src/service/role.service.ts": [
+        "../src/entity/role.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/decorators/user.decorator.ts": [
+        "../src/entity/user.entity.ts"
+      ],
+      "../src/controller/base.controller.ts": [
+        "../src/constant/action-type.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/decorators/user.decorator.ts",
+        "../src/dto/paginated-response.dto.ts",
+        "../src/dto/response.dto.ts",
+        "../src/entity/user.entity.ts",
+        "../src/service/core.service.ts",
+        "../src/utils/field-mapper.ts",
+        "../src/utils/search-criteria-util.ts"
+      ],
+      "../src/controller/role.controller.ts": [
+        "../src/constant/action-type.ts",
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/dto/response.dto.ts",
+        "../src/entity/role.entity.ts",
+        "../src/service/role.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/guards/roles.guard.ts": [
+        "../src/entity/user.entity.ts"
+      ],
+      "../src/controller/user.controller.ts": [
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/decorators/user.decorator.ts",
+        "../src/dto/response.dto.ts",
+        "../src/entity/user.entity.ts",
+        "../src/guards/roles.guard.ts",
+        "../src/service/user.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/entity/role-restrictions.entity.ts": [
+        "../src/constant/action-type.ts",
+        "../src/constant/api-features.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/role.entity.ts"
+      ],
+      "../src/module/user.module.ts": [
+        "../src/controller/role.controller.ts",
+        "../src/controller/user.controller.ts",
+        "../src/entity/role-restrictions.entity.ts",
+        "../src/entity/role.entity.ts",
+        "../src/entity/user.entity.ts",
+        "../src/service/role.service.ts",
+        "../src/service/user.service.ts"
+      ],
+      "../src/module/auth.module.ts": [
+        "../src/controller/auth.controller.ts",
+        "../src/service/auth.service.ts",
+        "../src/utils/passport-strategies/jtw.strategy.ts",
+        "../src/utils/passport-strategies/local.strategy.ts",
+        "../src/module/user.module.ts"
+      ],
+      "../src/entity/bank.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/service/bank.service.ts": [
+        "../src/entity/bank.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/bank.controller.ts": [
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/entity/bank.entity.ts",
+        "../src/service/bank.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/module/bank.module.ts": [
+        "../src/controller/bank.controller.ts",
+        "../src/entity/bank.entity.ts",
+        "../src/service/bank.service.ts"
+      ],
+      "../src/entity/calendar-day.entity.ts": [
+        "../src/constant/day-type.ts",
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/service/calendar.service.ts": [
+        "../src/entity/calendar-day.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/calendar.controller.ts": [
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/entity/calendar-day.entity.ts",
+        "../src/service/calendar.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/module/calendar.module.ts": [
+        "../src/controller/calendar.controller.ts",
+        "../src/entity/calendar-day.entity.ts",
+        "../src/service/calendar.service.ts"
+      ],
+      "../src/entity/company/adjustment/adjustment-type.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/service/adjustment-type.service.ts": [
+        "../src/entity/company/adjustment/adjustment-type.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/adjustment-type.controller.ts": [
+        "../src/entity/company/adjustment/adjustment-type.entity.ts",
+        "../src/service/adjustment-type.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/entity/company/adjustment/company-adjustment.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/adjustment/adjustment-type.entity.ts"
+      ],
+      "../src/service/company-adjustment.service.ts": [
+        "../src/entity/company/adjustment/company-adjustment.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/company-adjustment.controller.ts": [
+        "../src/entity/company/adjustment/company-adjustment.entity.ts",
+        "../src/service/company-adjustment.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/service/company.service.ts": [
+        "../src/entity/company/company.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/company.controller.ts": [
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/entity/company/company.entity.ts",
+        "../src/service/company.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/service/income-source.service.ts": [
+        "../src/entity/company/income-source.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/income-source.controller.ts": [
+        "../src/decorators/action.decorators.ts",
+        "../src/entity/company/income-source.entity.ts",
+        "../src/service/income-source.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/service/rate-tables.service.ts": [
+        "../src/entity/rate-table.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/rate-tables.controller.ts": [
+        "../src/constant/api-features.ts",
+        "../src/constant/day-type.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/dto/response.dto.ts",
+        "../src/entity/rate-table.entity.ts",
+        "../src/service/rate-tables.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/module/company.module.ts": [
+        "../src/controller/adjustment-type.controller.ts",
+        "../src/controller/company-adjustment.controller.ts",
+        "../src/controller/company.controller.ts",
+        "../src/controller/income-source.controller.ts",
+        "../src/controller/rate-tables.controller.ts",
+        "../src/entity/company/adjustment/adjustment-type.entity.ts",
+        "../src/entity/company/adjustment/company-adjustment.entity.ts",
+        "../src/entity/company/company.entity.ts",
+        "../src/entity/company/income-source.entity.ts",
+        "../src/entity/rate-table.entity.ts",
+        "../src/entity/rate.entity.ts",
+        "../src/service/adjustment-type.service.ts",
+        "../src/service/company-adjustment.service.ts",
+        "../src/service/company.service.ts",
+        "../src/service/income-source.service.ts",
+        "../src/service/rate-tables.service.ts"
+      ],
+      "../src/service/cost-center.service.ts": [
+        "../src/entity/cost-center.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/cost-center.controller.ts": [
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/entity/cost-center.entity.ts",
+        "../src/service/cost-center.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/module/cost-center.module.ts": [
+        "../src/controller/cost-center.controller.ts",
+        "../src/entity/cost-center.entity.ts",
+        "../src/service/cost-center.service.ts"
+      ],
+      "../src/service/department.service.ts": [
+        "../src/entity/department.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/department.controller.ts": [
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/entity/department.entity.ts",
+        "../src/service/department.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/module/department.module.ts": [
+        "../src/controller/department.controller.ts",
+        "../src/entity/department.entity.ts",
+        "../src/service/department.service.ts"
+      ],
+      "../src/entity/payroll-runs.entity.ts": [
+        "../src/constant/deduction-type.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/service/government-references.service.ts": [
+        "../src/constant/deduction-type.ts",
+        "../src/constant/hdmf-contribution-tables.ts",
+        "../src/constant/philhealth-contribution-table.ts",
+        "../src/constant/sss-contribution-table.ts",
+        "../src/constant/withholding-tax-tables.ts",
+        "../src/entity/payroll-runs.entity.ts"
+      ],
+      "../src/service/employee.service.ts": [
+        "../src/constant/bank-acct-type.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/user.entity.ts",
+        "../src/utils/field-mapper.ts",
+        "../src/service/core.service.ts",
+        "../src/service/government-references.service.ts"
+      ],
+      "../src/controller/employee.controller.ts": [
+        "../src/constant/action-type.ts",
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/dto/response.dto.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/user.entity.ts",
+        "../src/guards/roles.guard.ts",
+        "../src/service/employee.service.ts",
+        "../src/service/user.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/entity/employee/employment-status.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/service/employment-status.service.ts": [
+        "../src/entity/employee/employment-status.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/employment-status.controller.ts": [
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/entity/employee/employment-status.entity.ts",
+        "../src/guards/roles.guard.ts",
+        "../src/service/employment-status.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/government-references.controller.ts": [
+        "../src/dto/response.dto.ts",
+        "../src/service/government-references.service.ts"
+      ],
+      "../src/entity/employee/leave-log.entity.ts": [
+        "../src/constant/leave.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/service/leave.service.ts": [
+        "../src/entity/employee/leave-log.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/leave.controller.ts": [
+        "../src/constant/action-type.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/entity/employee/leave-log.entity.ts",
+        "../src/service/leave.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/service/shift.service.ts": [
+        "../src/entity/shift.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/shift.controller.ts": [
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/entity/shift.entity.ts",
+        "../src/service/shift.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/entity/site.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/employee/timelog.entity.ts": [
+        "../src/constant/timelog-type.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/site.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/employee-site.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/site.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/service/employee-site.service.ts": [
+        "../src/entity/employee/employee-site.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/service/site.service.ts": [
+        "../src/entity/site.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/service/timelog.service.ts": [
+        "../src/entity/user.entity.ts",
+        "../src/constant/constants.ts",
+        "../src/constant/day-type.ts",
+        "../src/constant/leave.ts",
+        "../src/entity/calendar-day.entity.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/employee/leave-log.entity.ts",
+        "../src/entity/employee/timelog.entity.ts",
+        "../src/service/calendar.service.ts",
+        "../src/service/company.service.ts",
+        "../src/service/core.service.ts",
+        "../src/service/employee.service.ts",
+        "../src/service/leave.service.ts",
+        "../src/service/site.service.ts"
+      ],
+      "../src/controller/timelog.controller.ts": [
+        "../src/constant/action-type.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/dto/response.dto.ts",
+        "../src/entity/employee/timelog.entity.ts",
+        "../src/entity/user.entity.ts",
+        "../src/service/employee-site.service.ts",
+        "../src/service/timelog.service.ts",
+        "../src/service/user.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/module/employee.module.ts": [
+        "../src/controller/employee.controller.ts",
+        "../src/controller/employment-status.controller.ts",
+        "../src/controller/government-references.controller.ts",
+        "../src/controller/leave.controller.ts",
+        "../src/controller/shift.controller.ts",
+        "../src/controller/timelog.controller.ts",
+        "../src/entity/employee/employee-site.entity.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/employee/employment-status.entity.ts",
+        "../src/entity/employee/leave-log.entity.ts",
+        "../src/entity/employee/timelog.entity.ts",
+        "../src/entity/shift.entity.ts",
+        "../src/entity/site.entity.ts",
+        "../src/service/employee-site.service.ts",
+        "../src/service/employee.service.ts",
+        "../src/service/employment-status.service.ts",
+        "../src/service/government-references.service.ts",
+        "../src/service/leave.service.ts",
+        "../src/service/shift.service.ts",
+        "../src/service/site.service.ts",
+        "../src/service/timelog.service.ts",
+        "../src/module/calendar.module.ts",
+        "../src/module/company.module.ts",
+        "../src/module/user.module.ts"
+      ],
+      "../src/entity/file.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/service/file.service.ts": [
+        "../src/entity/file.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/file.controller.ts": [
+        "../src/decorators/user.decorator.ts",
+        "../src/dto/response.dto.ts",
+        "../src/entity/user.entity.ts",
+        "../src/service/file.service.ts"
+      ],
+      "../src/module/file.module.ts": [
+        "../src/controller/file.controller.ts",
+        "../src/entity/file.entity.ts",
+        "../src/service/file.service.ts"
+      ],
+      "../src/service/mail.service.ts": [
+        "../src/constant/mail.ts",
+        "../src/dto/mail.dto.ts"
+      ],
+      "../src/controller/mail.controller.ts": [
+        "../src/dto/mail.dto.ts",
+        "../src/dto/response.dto.ts",
+        "../src/service/mail.service.ts"
+      ],
+      "../src/module/mail.module.ts": [
+        "../src/controller/mail.controller.ts",
+        "../src/service/mail.service.ts"
+      ],
+      "../src/service/pay-group.service.ts": [
+        "../src/entity/pay-group.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/pay-group.controller.ts": [
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/entity/pay-group.entity.ts",
+        "../src/guards/roles.guard.ts",
+        "../src/service/pay-group.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/module/pay-group.module.ts": [
+        "../src/controller/pay-group.controller.ts",
+        "../src/entity/pay-group.entity.ts",
+        "../src/service/pay-group.service.ts"
+      ],
+      "../src/service/payroll-computation.service.ts": [
+        "../src/constant/day-type.ts",
+        "../src/constant/deduction-type.ts",
+        "../src/entity/employee/deminimis.entity.ts",
+        "../src/entity/employee/employee-contribution.entity.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/employee/salary-details.entity.ts",
+        "../src/entity/payroll-runs.entity.ts",
+        "../src/entity/rate.entity.ts",
+        "../src/service/company.service.ts",
+        "../src/service/employee.service.ts",
+        "../src/service/government-references.service.ts",
+        "../src/service/timelog.service.ts"
+      ],
+      "../src/service/payroll-runs.service.ts": [
+        "../src/entity/payroll-runs.entity.ts",
+        "../src/service/core.service.ts",
+        "../src/service/payroll-computation.service.ts",
+        "../src/constant/constants.ts"
+      ],
+      "../src/controller/payroll-runs.controller.ts": [
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/entity/payroll-runs.entity.ts",
+        "../src/service/payroll-runs.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/payroll.controller.ts": [
+        "../src/constant/action-type.ts",
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/dto/response.dto.ts",
+        "../src/guards/roles.guard.ts",
+        "../src/service/employee.service.ts",
+        "../src/service/payroll-computation.service.ts"
+      ],
+      "../src/module/payroll.module.ts": [
+        "../src/controller/payroll-runs.controller.ts",
+        "../src/controller/payroll.controller.ts",
+        "../src/entity/employee/leave-log.entity.ts",
+        "../src/entity/payroll-runs.entity.ts",
+        "../src/service/payroll-computation.service.ts",
+        "../src/service/payroll-runs.service.ts",
+        "../src/module/calendar.module.ts",
+        "../src/module/company.module.ts",
+        "../src/module/employee.module.ts"
+      ],
+      "../src/controller/site.controller.ts": [
+        "../src/constant/api-features.ts",
+        "../src/decorators/action.decorators.ts",
+        "../src/entity/site.entity.ts",
+        "../src/service/site.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/module/site.module.ts": [
+        "../src/controller/site.controller.ts",
+        "../src/entity/site.entity.ts",
+        "../src/service/site.service.ts"
+      ],
+      "../src/app.module.ts": [
+        "../src/controller/app.controller.ts",
+        "../src/module/auth.module.ts",
+        "../src/module/bank.module.ts",
+        "../src/module/calendar.module.ts",
+        "../src/module/company.module.ts",
+        "../src/module/cost-center.module.ts",
+        "../src/module/department.module.ts",
+        "../src/module/employee.module.ts",
+        "../src/module/file.module.ts",
+        "../src/module/mail.module.ts",
+        "../src/module/pay-group.module.ts",
+        "../src/module/payroll.module.ts",
+        "../src/module/site.module.ts",
+        "../src/module/user.module.ts"
+      ],
+      "../src/main.ts": [
+        "../src/app.module.ts"
+      ],
+      "../src/entity/company/tax-table.entity.ts": [
+        "../src/constant/tax-annualization.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/tax-computation.entity.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../src/controller/payroll.controller.ts": [
+        "../src/dto/response.dto.ts",
+        "../src/service/employee.service.ts",
+        "../src/service/payroll-computation.service.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/service/timelog.service.ts",
+        "../src/service/government-references.service.ts"
+      ],
+      "../src/controller/mail.controller.ts": [
+        "../src/dto/mail.dto.ts",
+        "../src/dto/response.dto.ts",
+        "../src/service/mail.service.ts"
+      ],
+      "../src/controller/file.controller.ts": [
+        "../src/dto/response.dto.ts",
+        "../src/entity/user.entity.ts",
+        "../src/service/file.service.ts",
+        "../src/entity/file.entity.ts"
+      ],
+      "../src/controller/timelog.controller.ts": [
+        "../src/dto/response.dto.ts",
+        "../src/entity/employee/timelog.entity.ts",
+        "../src/service/employee-site.service.ts",
+        "../src/service/timelog.service.ts",
+        "../src/service/user.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/government-references.controller.ts": [
+        "../src/dto/response.dto.ts",
+        "../src/service/government-references.service.ts",
+        "../src/constant/withholding-tax-tables.ts",
+        "../src/constant/philhealth-contribution-table.ts"
+      ],
+      "../src/controller/employee.controller.ts": [
+        "../src/dto/response.dto.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/service/employee.service.ts",
+        "../src/service/user.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/rate-tables.controller.ts": [
+        "../src/dto/response.dto.ts",
+        "../src/entity/rate-table.entity.ts",
+        "../src/service/rate-tables.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/user.controller.ts": [
+        "../src/dto/response.dto.ts",
+        "../src/entity/user.entity.ts",
+        "../src/service/user.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/role.controller.ts": [
+        "../src/dto/response.dto.ts",
+        "../src/entity/role.entity.ts",
+        "../src/service/role.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/base.controller.ts": [
+        "../src/dto/paginated-response.dto.ts",
+        "../src/dto/response.dto.ts",
+        "../src/entity/user.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/controller/site.controller.ts": [
+        "../src/entity/site.entity.ts",
+        "../src/service/site.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/payroll-runs.controller.ts": [
+        "../src/entity/payroll-runs.entity.ts",
+        "../src/service/payroll-runs.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/pay-group.controller.ts": [
+        "../src/entity/pay-group.entity.ts",
+        "../src/service/pay-group.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/shift.controller.ts": [
+        "../src/entity/shift.entity.ts",
+        "../src/service/shift.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/leave.controller.ts": [
+        "../src/entity/employee/leave-log.entity.ts",
+        "../src/service/leave.service.ts",
+        "../src/controller/base.controller.ts",
+        "../src/dto/response.dto.ts"
+      ],
+      "../src/controller/employment-status.controller.ts": [
+        "../src/entity/employee/employment-status.entity.ts",
+        "../src/service/employment-status.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/department.controller.ts": [
+        "../src/entity/department.entity.ts",
+        "../src/service/department.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/cost-center.controller.ts": [
+        "../src/entity/cost-center.entity.ts",
+        "../src/service/cost-center.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/income-source.controller.ts": [
+        "../src/entity/company/income-source.entity.ts",
+        "../src/service/income-source.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/company.controller.ts": [
+        "../src/entity/company/company.entity.ts",
+        "../src/service/company.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/company-adjustment.controller.ts": [
+        "../src/entity/company/adjustment/company-adjustment.entity.ts",
+        "../src/service/company-adjustment.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/adjustment-type.controller.ts": [
+        "../src/entity/company/adjustment/adjustment-type.entity.ts",
+        "../src/service/adjustment-type.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/calendar.controller.ts": [
+        "../src/entity/calendar-day.entity.ts",
+        "../src/service/calendar.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/bank.controller.ts": [
+        "../src/entity/bank.entity.ts",
+        "../src/service/bank.service.ts",
+        "../src/controller/base.controller.ts"
+      ],
+      "../src/controller/auth.controller.ts": [
+        "../src/dto/response.dto.ts",
+        "../src/service/auth.service.ts",
+        "../src/service/user.service.ts",
+        "../src/entity/role.entity.ts",
+        "../src/entity/company/company.entity.ts",
+        "../src/entity/user.entity.ts"
+      ],
+      "../src/controller/app.controller.ts": [
+        "../src/dto/response.dto.ts"
+      ],
+      "../src/entity/company/tax-table.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/tax-computation.entity.ts"
+      ],
+      "../src/entity/file.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/service/file.service.ts": [
+        "../src/entity/file.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/entity/employee/employee-site.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/site.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/service/employee-site.service.ts": [
+        "../src/entity/employee/employee-site.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/entity/employee/timelog.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/site.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/service/timelog.service.ts": [
+        "../src/entity/user.entity.ts",
+        "../src/constant/day-type.ts",
+        "../src/constant/leave.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/employee/timelog.entity.ts",
+        "../src/service/calendar.service.ts",
+        "../src/service/company.service.ts",
+        "../src/service/core.service.ts",
+        "../src/service/employee.service.ts",
+        "../src/service/leave.service.ts",
+        "../src/service/site.service.ts"
+      ],
+      "../src/service/payroll-computation.service.ts": [
+        "../src/constant/day-type.ts",
+        "../src/entity/employee/deminimis.entity.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/employee/salary-details.entity.ts",
+        "../src/entity/payroll-runs.entity.ts",
+        "../src/entity/rate.entity.ts",
+        "../src/service/company.service.ts",
+        "../src/service/employee.service.ts",
+        "../src/service/government-references.service.ts",
+        "../src/service/timelog.service.ts"
+      ],
+      "../src/service/payroll-runs.service.ts": [
+        "../src/entity/payroll-runs.entity.ts",
+        "../src/service/core.service.ts",
+        "../src/service/payroll-computation.service.ts"
+      ],
+      "../src/entity/site.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/service/site.service.ts": [
+        "../src/entity/site.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/entity/employee/leave-log.entity.ts": [
+        "../src/constant/leave.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/service/leave.service.ts": [
+        "../src/entity/employee/leave-log.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/entity/employee/employment-status.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/service/employment-status.service.ts": [
+        "../src/entity/employee/employment-status.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/entity/payroll-runs.entity.ts": [
+        "../src/constant/deduction-type.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/service/government-references.service.ts": [
+        "../src/constant/deduction-type.ts",
+        "../src/entity/payroll-runs.entity.ts",
+        "../src/constant/withholding-tax-tables.ts",
+        "../src/constant/philhealth-contribution-table.ts"
+      ],
+      "../src/service/employee.service.ts": [
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/user.entity.ts",
+        "../src/service/core.service.ts",
+        "../src/service/government-references.service.ts"
+      ],
+      "../src/entity/company/adjustment/company-adjustment.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/adjustment/adjustment-type.entity.ts"
+      ],
+      "../src/service/company-adjustment.service.ts": [
+        "../src/entity/company/adjustment/company-adjustment.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/entity/company/adjustment/adjustment-type.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/service/adjustment-type.service.ts": [
+        "../src/entity/company/adjustment/adjustment-type.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/entity/calendar-day.entity.ts": [
+        "../src/constant/day-type.ts",
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/service/calendar.service.ts": [
+        "../src/entity/calendar-day.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/entity/bank.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/service/bank.service.ts": [
+        "../src/entity/bank.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/entity/role-restrictions.entity.ts": [
+        "../src/constant/action-type.ts",
+        "../src/constant/api-features.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/role.entity.ts"
+      ],
+      "../src/service/core.service.ts": [
+        "../src/dto/paginated-response.dto.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/user.entity.ts",
+        "../src/service/base.service.ts"
+      ],
+      "../src/service/pay-group.service.ts": [
+        "../src/entity/pay-group.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/service/shift.service.ts": [
+        "../src/entity/shift.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/service/department.service.ts": [
+        "../src/entity/department.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/service/cost-center.service.ts": [
+        "../src/entity/cost-center.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/service/rate-tables.service.ts": [
+        "../src/entity/rate-table.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/service/income-source.service.ts": [
+        "../src/entity/company/income-source.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/service/company.service.ts": [
+        "../src/entity/company/company.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/service/role.service.ts": [
+        "../src/entity/role.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/service/user.service.ts": [
+        "../src/dto/paginated-response.dto.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/user.entity.ts",
+        "../src/service/core.service.ts"
+      ],
+      "../src/service/auth.service.ts": [
+        "../src/entity/user.entity.ts",
+        "../src/service/user.service.ts",
+        "../src/entity/role.entity.ts",
+        "../src/entity/company/company.entity.ts"
+      ],
+      "../src/utils/passport-strategies/local.strategy.ts": [
+        "../src/service/auth.service.ts"
+      ],
+      "../src/service/base.service.ts": [
+        "../src/dto/paginated-response.dto.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/user.entity.ts"
+      ],
+      "../src/entity/user.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/company.entity.ts",
+        "../src/entity/role.entity.ts"
+      ],
+      "../src/utils/passport-strategies/jtw.strategy.ts": [
+        "../src/entity/user.entity.ts"
+      ],
+      "../src/entity/employee/employee.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/company.entity.ts",
+        "../src/entity/user.entity.ts",
+        "../src/entity/employee/bank-details.entity.ts",
+        "../src/entity/employee/contact.entity.ts",
+        "../src/entity/employee/dependents.entity.ts",
+        "../src/entity/employee/employee-government-numbers.entity.ts",
+        "../src/entity/employee/job-details.entity.ts",
+        "../src/entity/employee/leave-credits.entity.ts",
+        "../src/entity/employee/previous-employment-details.entity.ts",
+        "../src/entity/employee/salary-details.entity.ts"
+      ],
+      "../src/entity/company/company.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts",
+        "../src/entity/company/company-contact.entity.ts",
+        "../src/entity/company/company-govt-numbers.entity.ts",
+        "../src/entity/company/company-signatories.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts",
+        "../src/entity/company/tax-computation.entity.ts",
+        "../src/entity/company/work-policy.entity.ts"
+      ],
+      "../src/entity/company/work-policy.entity.ts": [
+        "../src/entity/company/company.entity.ts"
+      ],
+      "../src/entity/company/tax-computation.entity.ts": [
+        "../src/entity/company/company.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/payroll-computation.entity.ts": [
+        "../src/entity/company/company.entity.ts",
+        "../src/entity/company/payroll-computation/13th-month-computation.entity.ts",
+        "../src/entity/company/payroll-computation/absent-deduction.entity.ts",
+        "../src/entity/company/payroll-computation/final-pay-computation.entity.ts",
+        "../src/entity/company/payroll-computation/late-deduction.entity.ts",
+        "../src/entity/company/payroll-computation/new-hire-prorated-computation.entity.ts",
+        "../src/entity/company/payroll-computation/overtime-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/week-day.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/job-details.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/overtime-computation.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/payroll-computation/overtime-computation-basis.entity.ts",
+        "../src/entity/company/payroll-computation/overtime-computation-rates.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/overtime-computation-rates.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/rate.entity.ts",
+        "../src/entity/company/payroll-computation/overtime-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/overtime-computation-basis.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/income-source.entity.ts",
+        "../src/entity/company/payroll-computation/overtime-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/new-hire-prorated-computation.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/payroll-computation/new-hire-prorated-income-src.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/new-hire-prorated-income-src.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/income-source.entity.ts",
+        "../src/entity/company/payroll-computation/new-hire-prorated-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/final-pay-computation.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/deduction.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/income-source.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/late-deduction.entity.ts": [
+        "../src/entity/company/payroll-computation/deduction.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/absent-deduction.entity.ts": [
+        "../src/entity/company/payroll-computation/deduction.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/13th-month-computation.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/payroll-computation/13th-month-computation-income-src.entity.ts",
+        "../src/entity/company/payroll-computation/payroll-computation.entity.ts"
+      ],
+      "../src/entity/company/payroll-computation/13th-month-computation-income-src.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/company/income-source.entity.ts",
+        "../src/entity/company/payroll-computation/13th-month-computation.entity.ts"
+      ],
+      "../src/entity/company/company-signatories.entity.ts": [
+        "../src/entity/company/company.entity.ts",
+        "../src/entity/company/hr-signatory.entity.ts"
+      ],
+      "../src/entity/company/company-govt-numbers.entity.ts": [
+        "../src/entity/government-numbers.entity.ts",
+        "../src/entity/company/company.entity.ts"
+      ],
+      "../src/entity/company/company-contact.entity.ts": [
+        "../src/entity/company/company.entity.ts"
+      ],
+      "../src/entity/employee/salary-details.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/rate-table.entity.ts",
+        "../src/entity/employee/deminimis.entity.ts",
+        "../src/entity/employee/employee-contribution.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/employee-contribution.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/salary-details.entity.ts"
+      ],
+      "../src/entity/employee/deminimis.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/salary-details.entity.ts"
+      ],
+      "../src/entity/rate-table.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/salary-details.entity.ts",
+        "../src/entity/rate.entity.ts"
+      ],
+      "../src/entity/rate.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/rate-table.entity.ts"
+      ],
+      "../src/entity/employee/previous-employment-details.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/leave-credits.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/job-details.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/cost-center.entity.ts",
+        "../src/entity/department.entity.ts",
+        "../src/entity/pay-group.entity.ts",
+        "../src/entity/shift.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/employee-government-numbers.entity.ts": [
+        "../src/entity/government-numbers.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/dependents.entity.ts": [
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/contact.entity.ts": [
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/employee/bank-details.entity.ts": [
+        "../src/constant/bank-acct-type.ts",
+        "../src/entity/base.entity.ts",
+        "../src/entity/employee/employee.entity.ts"
+      ],
+      "../src/entity/role.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/company/income-source.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/company/signatory.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/company/hr-signatory.entity.ts": [
+        "../src/entity/company/signatory.entity.ts"
+      ],
+      "../src/entity/company/finance-signatory.entity.ts": [
+        "../src/entity/company/signatory.entity.ts"
+      ],
+      "../src/entity/company/admin-signatory.entity.ts": [
+        "../src/entity/company/signatory.entity.ts"
+      ],
+      "../src/entity/shift.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/pay-group.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/department.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/cost-center.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/entity/government-numbers.entity.ts": [
+        "../src/entity/base.entity.ts"
+      ],
+      "../src/decorators/action.decorators.ts": [
+        "../src/constant/action-type.ts",
+        "../src/constant/api-features.ts"
+      ],
+      "../src/service/mail.service.ts": [
+        "../src/dto/mail.dto.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": []
+  },
+  "version": "3.8.2"
+}
